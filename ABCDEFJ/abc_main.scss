@@ -1,0 +1,4435 @@
+body {
+    background: #E5E5E5;
+    margin: 0%;
+}
+.rectangle {
+    position: absolute;
+    width: 20000px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+    background: #394959;
+}
+.rectangle_1 {
+    position: absolute;
+    width: 380px;
+    height: 5113px;
+    left: 0px;
+    top: 89px;
+    background: #394959;
+    z-index: 0;
+}
+.skills_guide_class {
+    position: absolute;
+    width: 171px;
+    height: 43px;
+    left: 109px;
+    top: 23px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.menu_1_class {
+    position: absolute;
+    width: 130px;
+    height: 43px;
+    left: 480px;
+    top: 23px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.menu_2_class {
+    position: absolute;
+    width: 124px;
+    height: 43px;
+    left: 719px;
+    top: 23px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.menu_3_class {
+    position: absolute;
+    width: 123px;
+    height: 43px;
+    left: 966px;
+    top: 23px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.private_office {
+    position: absolute;
+    width: 265px;
+    height: 43px;
+    left: 1210px;
+    top: 23px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    /* identical to box height */
+    text-align: right;
+    color: #FFFFFF;
+}
+.exit {
+    position: absolute;
+    width: 100px;
+    height: 43px;
+    left: 1540px;
+    top: 23px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    /* identical to box height */
+    text-align: right;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+.private_office_1 {
+    position: absolute;
+    width: 356px;
+    height: 55px;
+    left: 481px;
+    top: 110px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    /* identical to box height */
+    color: #394959;
+}
+.private_office_left_bar {
+    position: absolute;
+    width: 175px;
+    height: 28px;
+    left: 30px;
+    top: 326px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.upcoming_meetings {
+    position: absolute;
+    width: 215px;
+    height: 28px;
+    left: 30px;
+    top: 379px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    color: #FFFFFF;
+    z-index: 1;
+}
+.timetable {
+    position: absolute;
+    width: 124px;
+    height: 28px;
+    left: 30px;
+    top: 432px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.evaluation {
+    position: absolute;
+    width: 133px;
+    height: 28px;
+    left: 30px;
+    top: 485px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.recommendations {
+    position: absolute;
+    width: 155px;
+    height: 28px;
+    left: 30px;
+    top: 538px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.history {
+    position: absolute;
+    width: 89px;
+    height: 28px;
+    left: 30px;
+    top: 591px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.user_name_of_profile {
+    position: absolute;
+    width: 143px;
+    height: 22px;
+    left: 118px;
+    top: 245px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.school_number_and_current_class {
+    position: absolute;
+    width: 98px;
+    height: 17px;
+    left: 141px;
+    top: 273px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+}
+.img_of_profile {
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 127px;
+    top: 110px;
+}
+.photo_for_instagram_on_website {
+    position: absolute;
+    z-index: 1;
+    width: 125px;
+    height: 125px;
+    left: 127px;
+    top: 126px;
+    
+}
+.full_name {
+    position: absolute;
+    width: 78px;
+    height: 37px;
+    left: 481px;
+    top: 185px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #222222;
+}
+.email_address {
+    position: absolute;
+    width: 83px;
+    height: 37px;
+    left: 481px;
+    top: 242px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #222222;
+}
+.city {
+    position: absolute;
+    width: 92px;
+    height: 37px;
+    left: 480px;
+    top: 413px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #222222;
+}
+.school {
+    position: absolute;
+    width: 104px;
+    height: 37px;
+    left: 480px;
+    top: 470px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #222222;
+}
+.school_class {
+    position: absolute;
+    width: 91px;
+    height: 37px;
+    left: 480px;
+    top: 527px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #222222;
+}
+.phone_number {
+    position: absolute;
+    width: 133px;
+    height: 37px;
+    left: 482px;
+    top: 299px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+} 
+.date_of_birth {
+    position: absolute;
+    width: 226px;
+    height: 37px;
+    left: 480px;
+    top: 356px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #222222;
+}
+.full_name_1 {
+    position: absolute;
+    width: 481px;
+    height: 39px;
+    left: 757px;
+    top: 183px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    color: #222222;
+}
+.full_email_address {
+    position: absolute;
+    width: 391px;
+    height: 39px;
+    left: 757px;
+    top: 242px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    color: #222222;
+}
+.full_phone_number {
+    position: absolute;
+    width: 300px;
+    height: 39px;
+    left: 757px;
+    top: 301px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    color: #222222;
+}
+.full_date_of_birth {
+    position: absolute;
+    width: 265px;
+    height: 38px;
+    left: 757px;
+    top: 356px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 38px;
+    /* identical to box height */
+    color: #222222;
+}
+.city_name {
+    position: absolute;
+    width: 141px;
+    height: 43px;
+    left: 757px;
+    top: 410px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    /* identical to box height */
+    color: #222222;
+}
+.school_full_name {
+    position: absolute;
+    width: 221px;
+    height: 37px;
+    left: 757px;
+    top: 470px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    color: #222222;
+}
+.current_class_number {
+    position: absolute;
+    width: 49px;
+    height: 43px;
+    left: 757px;
+    top: 524px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    /* identical to box height */
+    color: #222222;
+}
+.upcoming_meetings {
+    position: absolute;
+    width: 435px;
+    height: 55px;
+    left: 803px;
+    top: 683px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    /* identical to box height */
+    color: #394959;
+}
+.picture_of_logo {
+    position: absolute;
+    z-index: 1;
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    left: 30px;
+    top: 13px;
+}
+.Introduction_to_the_world_of_marketing {
+    position: absolute;
+    width: 403px;
+    height: 45px;
+    left: 537px;
+    top: 763px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #222222;
+}
+
+.Introduction_to_the_world_of_manufacturing {
+    position: absolute;
+    width: 500px;
+    height: 45px;
+    left: 1140px;
+    top: 763px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #222222;
+}
+.Basic_concepts_in_the_field_of_marketing_analytical_equipment_of_the_project {
+    position: absolute;
+    width: 498px;
+    height: 76px;
+    left: 480px;
+    top: 816px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* or 38px */
+    color: #565656;
+}
+.marketing_meeting_date {
+    position: absolute;
+    width: 146px;
+    height: 30px;
+    left: 540px;
+    top: 911px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.teacher_in_marketing {
+    position: absolute;
+    width: 134px;
+    height: 30px;
+    left: 540px;
+    top: 981px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.Basic_concepts_in_the_field_of_marketing_analytical_equipment_of_the_project_1 {
+    position: absolute;
+    width: 498px;
+    height: 76px;
+    left: 1083px;
+    top: 816px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* or 38px */
+    color: #565656;
+}
+.date_of_meeting_with_the_production_teacher {
+    position: absolute;
+    width: 151px;
+    height: 30px;
+    left: 1143px;
+    top: 911px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.edit_button {
+    position: absolute;
+    width: 276px;
+    height: 73px;
+    left: 481px;
+    top: 589px;
+    background: #394959;
+    border-radius: 7px;
+    margin-top: 25px;
+}
+.edit_button_inscription {
+    position: absolute;
+    width: 212px;
+    height: 30px;
+    left: 513px;
+    top: 611px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.Introduction_to_the_world_of_economics {
+    position: absolute;
+    width: 403px;
+    height: 45px;
+    left: 537px;
+    top: 1056px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #222222;
+}
+.Basic_concepts_in_the_field_of_economics_financial_and_economic_support {
+    position: absolute;
+    width: 498px;
+    height: 76px;
+    left: 480px;
+    top: 1109px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* or 38px */
+    color: #565656;
+}
+.Basic_concepts_in_the_field_of_logistics_the_main_types_of_logistics_types {
+    position: absolute;
+    width: 557px;
+    height: 76px;
+    left: 1083px;
+    top: 1109px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* or 38px */
+    color: #565656;
+}
+.Introduction_to_the_world_of_logistics {
+    position: absolute;
+    width: 500px;
+    height: 45px;
+    left: 1140px;
+    top: 1056px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #222222;
+}
+.date_of_the_meeting_with_the_teacher_of_economics {
+    position: absolute;
+    width: 151px;
+    height: 30px;
+    left: 540px;
+    top: 1204px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.economics_teacher_name {
+    position: absolute;
+    width: 164px;
+    height: 38px;
+    left: 540px;
+    top: 1270px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #394959;
+}
+.teacher_in_the_field_of_production {
+    position: absolute;
+    width: 135px;
+    height: 30px;
+    left: 1143px;
+    top: 981px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.date_of_the_meeting_with_the_teacher_in_the_field_of_logistics {
+    position: absolute;
+    width: 156px;
+    height: 30px;
+    left: 1143px;
+    top: 1204px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.teacher_in_the_field_of_logistics {
+    position: absolute;
+    width: 146px;
+    height: 38px;
+    left: 1143px;
+    top: 1270px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #394959;
+}
+.extension {
+    position: absolute;
+    width: 251px;
+    height: 55px;
+    left: 935px;
+    top: 1349px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    /* identical to box height */
+    color: #394959;
+}
+.marketing_teacher_phone_number {
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    left: 840px;
+    top: 911px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.link_to_the_world_of_marketing {
+    position: absolute;
+    width: 135px;
+    height: 30px;
+    left: 840px;
+    top: 981px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.link_to_the_world_of_production {
+    position: absolute;
+    width: 135px;
+    height: 30px;
+    left: 1443px;
+    top: 981px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.calendar_month {
+    position: absolute;
+    width: 212px;
+    height: 53px;
+    left: 954px;
+    top: 1400px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.link_to_the_world_of_economics {
+    position: absolute;
+    width: 135px;
+    height: 30px;
+    left: 840px;
+    top: 1274px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.link_to_the_world_of_logistics {
+    position: absolute;
+    width: 135px;
+    height: 30px;
+    left: 1443px;
+    top: 1274px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.production_teacher_phone_number {
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    left: 1443px;
+    top: 911px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.economics_teacher_phone_number {
+    position: absolute;
+    width: 137px;
+    height: 30px;
+    left: 840px;
+    top: 1204px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.phone_number_of_the_teacher_in_logistics {
+    /* 8(917)534-32-67 */
+    position: absolute;
+    width: 142px;
+    height: 30px;
+    left: 1443px;
+    top: 1204px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    color: #394959;
+}
+.evaluation_1 {
+    /* Оценивание */
+    position: absolute;
+    width: 266px;
+    height: 55px;
+    left: 936px;
+    top: 2651px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    /* identical to box height */
+    color: #394959;
+}
+.marketer {
+    /* Маркетолог */
+    position: absolute;
+    width: 194px;
+    height: 53px;
+    left: 561px;
+    top: 2733px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.Basic_concepts_and_technologies_of_work_and_practical_application {
+    /* Основные понятия, технологии работы, практическое применение */
+    position: absolute;
+    width: 772px;
+    height: 38px;
+    left: 561px;
+    top: 2790px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.concepts_100_percent {
+    /* Понятия — 100% */
+    position: absolute;
+    width: 189px;
+    height: 38px;
+    left: 561px;
+    top: 2851px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.analytics_80_percent {
+    /* Аналитика — 80% */
+    position: absolute;
+    width: 203px;
+    height: 38px;
+    left: 561px;
+    top: 2939px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.technology_45_percent {
+    /* Технологии — 45% */
+    position: absolute;
+    width: 213px;
+    height: 38px;
+    left: 561px;
+    top: 3027px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.final_testing_60_percent {
+    /* Итоговое тестирование — 60% */
+    position: absolute;
+    width: 356px;
+    height: 38px;
+    left: 561px;
+    top: 3115px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.developer_1 {
+    /* Разработчик */
+    position: absolute;
+    width: 206px;
+    height: 53px;
+    left: 561px;
+    top: 3236px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.Basic_concepts_and_technologies_of_work_and_practical_application {
+    /* Основные понятия, технологии работы, практическое применение */
+    position: absolute;
+    width: 772px;
+    height: 38px;
+    left: 561px;
+    top: 3293px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.concepts_100_percent {
+    /* Понятия — 100% */
+    position: absolute;
+    width: 189px;
+    height: 38px;
+    left: 561px;
+    top: 3354px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.analytics_80_percent {
+    /* Аналитика — 80% */
+    position: absolute;
+    width: 203px;
+    height: 38px;
+    left: 561px;
+    top: 3442px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.technology_45_percent {
+    /* Технологии — 45% */
+    position: absolute;
+    width: 213px;
+    height: 38px;
+    left: 561px;
+    top: 3530px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.final_testing_60_percent {
+    /* Итоговое тестирование — 60% */
+    position: absolute;
+    width: 356px;
+    height: 38px;
+    left: 561px;
+    top: 3618px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.recommendation_for_courses_and_trials {
+    /* Рекомандации по курсам/пробам */
+    position: absolute;
+    width: 715px;
+    height: 55px;
+    left: 723px;
+    top: 3730px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    /* identical to box height */
+    color: #394959;
+}
+.history_2 {
+    /* История */
+    position: absolute;
+    width: 179px;
+    height: 59px;
+    left: 970px;
+    top: 4255px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #394959;
+}
+.analyst_1 {
+    /* Аналитик */
+    position: absolute;
+    width: 151px;
+    height: 53px;
+    left: 559px;
+    top: 4341px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.analyst_2 {
+    /* Аналитик */
+    position: absolute;
+    width: 151px;
+    height: 53px;
+    left: 1003px;
+    top: 4341px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.analyst_3 {
+    /* Аналитик */
+    position: absolute;
+    width: 151px;
+    height: 53px;
+    left: 1388px;
+    top: 4341px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.developer_2 {
+    /* Разработчик */
+    position: absolute;
+    width: 206px;
+    height: 53px;
+    left: 559px;
+    top: 4419px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.developer_3 {
+    /* Разработчик */
+    position: absolute;
+    width: 206px;
+    height: 53px;
+    left: 1003px;
+    top: 4419px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.developer_4 {
+    /* Разработчик */
+    position: absolute;
+    width: 206px;
+    height: 53px;
+    left: 1388px;
+    top: 4419px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.teacher {
+    /* Преподаватель */
+    position: absolute;
+    width: 252px;
+    height: 53px;
+    left: 560px;
+    top: 4498px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.teacher_1 {
+    /* Преподаватель */
+    position: absolute;
+    width: 252px;
+    height: 53px;
+    left: 1004px;
+    top: 4498px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.teacher_2 {
+    /* Преподаватель */
+    position: absolute;
+    width: 252px;
+    height: 53px;
+    left: 1389px;
+    top: 4498px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.cook {
+    /* Повар */
+    position: absolute;
+    width: 103px;
+    height: 53px;
+    left: 560px;
+    top: 4580px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.cook_1 {
+    /* Повар */
+    position: absolute;
+    width: 103px;
+    height: 53px;
+    left: 1004px;
+    top: 4580px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+.cook_2 {
+    /* Повар */
+    position: absolute;
+    width: 103px;
+    height: 53px;
+    left: 1389px;
+    top: 4580px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    /* identical to box height, or 52px */
+    color: #222222;
+}
+
+
+.rectangle_3 {
+    /* Rectangle 84 */
+    position: absolute;
+    width: 1160px;
+    height: 70px;
+    left: 480px;
+    top: 3830px;
+    background: #394959;
+    
+}
+.light_gray_square_1 {
+    /* Rectangle 41 */
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 647px;
+    top: 1481px;
+    background: #E2DFDF;
+}
+.day_of_the_week_tuesday {
+    /* ВТ */
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 652px;
+    top: 1477px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.name_0 {
+    /* Название */
+    position: absolute;
+    width: 136px;
+    height: 45px;
+    left: 510px;
+    top: 3822px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+    z-index: 1;
+}
+.teacher_3 {
+    /* Преподаватель */
+    position: absolute;
+    width: 216px;
+    height: 45px;
+    left: 777px;
+    top: 3822px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+    z-index: 1;
+}
+.duration {
+    /* Длительность */
+    position: absolute;
+    width: 193px;
+    height: 45px;
+    left: 1124px;
+    top: 3822px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+    z-index: 1;
+}
+.the_date_of_the_beginning {
+    /* Дата начала */
+    position: absolute;
+    width: 170px;
+    height: 45px;
+    left: 1448px;
+    top: 3822px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    text-align: right;
+    color: #FFFFFF;
+    z-index: 1;
+}
+.dark_gray_long_rectangle {
+    /* Rectangle 79 */
+    position: absolute;
+    width: 1160px;
+    height: 70px;
+    left: 480px;
+    top: 3900px;
+    background: #D0D0D0;
+}
+.Basic_concepts_and_technologies_of_work_and_practical_application {
+    /* Основные понятия, технологии работы, практическое применение */
+    position: absolute;
+    width: 772px;
+    height: 38px;
+    left: 561px;
+    top: 2790px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.concepts_100_percent {
+    /* Понятия — 100% */
+    position: absolute;
+    width: 189px;
+    height: 38px;
+    left: 561px;
+    top: 2851px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.analytics_80_percent {
+    /* Аналитика — 80% */
+    position: absolute;
+    width: 203px;
+    height: 38px;
+    left: 561px;
+    top: 2939px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.technology_45_percent {
+    /* Технологии — 45% */
+    position: absolute;
+    width: 213px;
+    height: 38px;
+    left: 561px;
+    top: 3027px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.final_testing_60_percent {
+    /* Итоговое тестирование — 60% */
+    position: absolute;
+    width: 356px;
+    height: 38px;
+    left: 561px;
+    top: 3115px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.light_gray_square_0 {
+    /* Rectangle 40 */
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 480px;
+    top: 1481px;
+    background: #E2DFDF;
+}
+.day_of_the_week_monday {
+    /* ПН */
+    position: absolute;
+    width: 43px;
+    height: 45px;
+    left: 485px;
+    top: 1445px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.thirtieth_day_of_the_month {
+    /* 28 */
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 571px;
+    top: 1420px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_ninth_day_of_the_month {
+    /* 29 */
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 738px;
+    top: 1420px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.title_in_first_post {
+    /* Повар */
+    position: absolute;
+    width: 89px;
+    height: 45px;
+    left: 533px;
+    top: 3883px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #222222;
+}
+.name_of_the_teacher_in_the_first_entry {
+    /* Дюмин М.Б. */
+    position: absolute;
+    width: 216px;
+    height: 45px;
+    left: 777px;
+    top: 3883px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    text-align: center;
+    color: #222222;
+}
+.duration_of_the_first_recording_in_hours {
+    /* 10 ак. ч. */
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 1124px;
+    top: 3883px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    text-align: center;
+    color: #222222;
+}
+.start_date_of_the_first_entry {
+    /* 11.04.2022 */
+    position: absolute;
+    width: 169px;
+    height: 45px;
+    left: 1448px;
+    top: 3883px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    text-align: center;
+    color: #222222;
+}
+.icon_of_student_head_class {
+    position: absolute;
+    z-index: 1;
+}
+.image_of_student_head_for_class {
+    position: absolute;
+    z-index: 1;
+    /* Rectangle 11 */
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 481px;
+    top: 790px;
+}
+.image_of_student_head_for_class_1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1083px;
+    top:    px;
+}
+.image_of_student_head_for_class_2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 484px;
+    top: 1085px;
+}
+.image_of_student_head_for_class_3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1083px;
+    top: 1093px;
+}
+.image_of_student_head_for_class_4 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1083px;
+    top: 800px;
+}
+.calendar_icon {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 484px;
+    top: 925px;
+}
+.calendar_icon_1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1083px;
+    top: 925px;
+}
+.calendar_icon_2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 484px;
+    top: 1225px;
+}
+.calendar_icon_3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1083px;
+    top: 1225px;
+}
+.profile_man_icon {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 484px;
+    top: 995px;
+}
+.profile_man_icon_1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1083px;
+    top: 995px;
+}
+.profile_man_icon_2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 484px;
+    top: 1287px;
+}
+.profile_man_icon_3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1083px;
+    top: 1287px;
+}
+.class_of_old_icon_of_old_phone {
+    position: absolute;
+    width: 40px;
+    height: 41.82px;
+    left: 780px;
+    top: 930px;
+}
+.class_of_old_icon_of_old_phone_1 {
+    position: absolute;
+    width: 40px;
+    height: 41.82px;
+    left: 1383px;
+    top: 930px;
+}
+.class_of_old_icon_of_old_phone_2 {
+    position: absolute;
+    width: 40px;
+    height: 41.82px;
+    left: 780px;
+    top: 1223px;
+}
+.class_of_old_icon_of_old_phone_3 {
+    position: absolute;
+    width: 40px;
+    height: 41.82px;
+    left: 1383px;
+    top: 1223px;
+}
+.class_for_icon_of_chain {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 780px;
+    top: 993px;
+}
+.class_for_icon_of_chain_1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1383px;
+    top: 993px;
+}
+.class_for_icon_of_chain_2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 780px;
+    top: 1287px;
+}
+.class_for_icon_of_chain_3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1383px;
+    top: 1287px;
+}
+.basic_concepts_and_technologies_of_work_and_practical_application {
+    /* Основные понятия, технологии работы, практическое применение */
+    position: absolute;
+    width: 772px;
+    height: 38px;
+    left: 561px;
+    top: 3293px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.concept_100_percent {
+    /* Понятия — 100% */
+    position: absolute;
+    width: 189px;
+    height: 38px;
+    left: 561px;
+    top: 3354px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.analytics_80_percent {
+    /* Аналитика — 80% */
+    position: absolute;
+    width: 203px;
+    height: 38px;
+    left: 561px;
+    top: 3442px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.technology_45_percent {
+    /* Технологии — 45% */
+    position: absolute;
+    width: 213px;
+    height: 38px;
+    left: 561px;
+    top: 3530px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.final_testing_60_percent {
+    /* Итоговое тестирование — 60% */
+    position: absolute;
+    width: 356px;
+    height: 38px;
+    left: 561px;
+    top: 3618px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.rectangle_85 {
+    position: absolute;
+    width: 450px;
+    height: 30px;
+    left: 561px;
+    top: 3425px;
+    background: #394959;
+    border-radius: 41px;
+    z-index: -1;
+}
+.picture_of_logo {
+    position: absolute;
+    top: 47px;
+}
+.class_for_arrow_pointing_left {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 910px;
+    top: 1443px;
+}
+.class_for_arrow_pointing_right {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 1175px;
+    top: 1443px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.TSOPP_address {
+    /* 445007, Тольятти, улица Победы, дом 7По рабочим дням с 10:00 до 18:00 */
+    position: absolute;
+    width: 451px;
+    height: 60px;
+    left: 889px;
+    top: 4792px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 120%;
+    /* or 30px */
+    color: #FFFFFF;
+} 
+.TSOPP_phone_number {
+    /* 8 (800) 350-42-07 */
+    position: absolute;
+    width: 201px;
+    height: 30px;
+    left: 889px;
+    top: 4882px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.TSOPP_gmail_address {
+    /* copp163.info@gmail.com */
+    position: absolute;
+    width: 270px;
+    height: 30px;
+    left: 889px;
+    top: 4942px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.TSOPP_instagram {
+    /* Наш Instagram */
+    position: absolute;
+    width: 165px;
+    height: 30px;
+    left: 1476px;
+    top: 4792px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 120%;
+    /* identical to box height, or 30px */
+    color: #FFFFFF;
+}
+.TSOPP_facebook {
+    /* Наш Facebook */
+    position: absolute;
+    width: 167px;
+    height: 30px;
+    left: 1474px;
+    top: 4845px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 120%;
+    /* identical to box height, or 30px */
+    color: #FFFFFF;
+}
+.class_for_logo_and_full_name_of_the_educational_center {
+    /* image 8 */
+    position: absolute;
+    width: 283px;
+    height: 150px;
+    left: 481px;
+    top: 4833px;
+}
+.dark_blue_triangle_at_the_bottom_of_the_web_page {
+    /* Rectangle 2 */
+    position: absolute;
+    width: 1384px;
+    height: 463px;
+    left: 350px;
+    top: 4740px;
+    background: #394959;
+    z-index: -1;
+}
+.class_for_checkboxed_form {
+    /* Checked Checkbox */
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 480px;
+    top: 4371px;
+}
+.class_for_checkboxed_form_1 {
+    /* Rectangle 95 */
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 924px;
+    top: 4371px;
+}
+.class_for_checkboxed_form_2 {
+    /* Rectangle 95 */
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1309px;
+    top: 4371px;
+}
+.class_for_checkboxed_form_3 {
+    /* Rectangle 95 */
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 480px;
+    top: 4450px;
+}
+.class_for_checkboxed_form_4 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 924px;
+    top: 4450px;
+}
+.class_for_checkboxed_form_5 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1309px;
+    top: 4450px;
+}
+.class_for_form_with_a_cross {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 480px;
+    top: 4530px;
+}
+.class_for_form_with_a_cross_1 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 924px;
+    top: 4530px;
+}
+.class_for_form_with_a_cross_2 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1309px;
+    top: 4530px;
+}
+.class_for_yellow_circle {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 925px;
+    top: 4607px;
+}
+.class_for_yellow_circle_1 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 481px;
+    top: 4607px;
+}
+.class_for_yellow_circle_2 {
+    position: absolute;
+    width: 50px;
+    height: 50px;   
+    left: 1310px;
+    top: 4607px;
+}
+.class_map_pointer {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 844px;
+    top: 4818px;
+}
+.Rectangle_88 {
+    position: absolute;
+    width: 360px;
+    height: 30px;
+    left: 561px;
+    top: 3510px;
+    background: #394959;
+    border-radius: 41px 0px 0px 41px;
+}
+.Rectangle_89 {
+    position: absolute;
+    width: 450px;
+    height: 30px;
+    left: 561px;
+    top: 3510px;
+    background: #C4C4C4;
+    border-radius: 41px;
+    z-index: -1;
+}
+.Rectangle_93 {
+    position: absolute;
+    width: 202px;
+    height: 30px;
+    left: 561px;
+    top: 3595px;
+    background: #DC2014;
+    border-radius: 41px 0px 0px 41px;
+}
+.Rectangle_90 {
+    position: absolute;
+    width: 450px;
+    height: 30px;
+    left: 561px;
+    top: 3595px;
+    background: #C4C4C4;
+    border-radius: 41px;
+    z-index: -1;
+}
+.Rectangle_91 {
+    position: absolute;
+    width: 270px;
+    height: 30px;
+    left: 561px;
+    top: 3685px;
+    background: #394959;
+    border-radius: 41px 0px 0px 41px;
+}
+.Rectangle_92 {
+    position: absolute;
+    width: 450px;
+    height: 30px;
+    left: 561px;
+    top: 3685px;
+    background: #C4C4C4;
+    border-radius: 41px;
+    z-index: -1;
+}
+.analytics_80_percent {
+    position: absolute;
+    width: 203px;
+    height: 38px;
+    left: 561px;
+    top: 2939px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+    z-index: 1;
+}
+.technology_45_percent {
+    position: absolute;
+    width: 213px;
+    height: 38px;
+    left: 561px;
+    top: 3027px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.final_testing_60_percent {
+    position: absolute;
+    width: 356px;
+    height: 38px;
+    left: 561px;
+    top: 3115px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.analysts_80_percent_1 {
+    position: absolute;
+    width: 203px;
+    height: 38px;
+    left: 561px;
+    top: 3446px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.class_for_upcoming_meetings {
+    position: absolute;
+    width: 215px;
+    height: 28px;
+    left: 30px;
+    top: 379px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+.class_for_technology_45_percent {
+    position: absolute;
+    width: 213px;
+    height: 38px;
+    left: 561px;
+    top: 3530px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.class_for_final_testing_60_percent {
+    position: absolute;
+    width: 356px;
+    height: 38px;
+    left: 561px;
+    top: 3618px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* identical to box height, or 38px */
+    color: #222222;
+}
+.Rectangle_95 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1031px;
+    top: 3415px;
+    
+}
+.Rectangle_checked {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1031px;
+    top: 3500px;
+}
+.class_for_form_with_a_cross {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1031px;
+    top: 3585px;
+}
+.class_for_checkboxed_icon_0 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1031px;
+    top: 3675px;
+}
+.class_of_old_phone_1 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 844px;
+    top: 4900px;
+}
+.class_for_instagram_icon {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 1431px;
+    top: 4813px;
+}
+.class_for_facebook_icon {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 1431px;
+    top: 4865px;
+}
+.class_for_mail_icon {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 844px;
+    top: 4965px;
+}
+.rectangle_84 {
+    position: absolute;
+    width: 450px;
+    height: 30px;
+    left: 561px;
+    top: 2920px;
+    background: #394959;
+    border-radius: 41px;
+}
+.rectangle_88 {
+    position: absolute;
+    width: 360px;
+    height: 30px;
+    left: 561px;
+    top: 3010px;
+    background: #394959;
+    border-radius: 41px 0px 0px 41px;
+}
+.rectangle_89 {
+    position: absolute;
+    width: 450px;
+    height: 30px;
+    left: 561px;
+    top: 3010px;
+    background: #C4C4C4;
+    border-radius: 41px;
+    z-index: -1;
+}
+.rectangle_93 {
+    position: absolute;
+    width: 202px;
+    height: 30px;
+    left: 561px;
+    top: 3093px;
+    background: #DC2014;
+    border-radius: 41px 0px 0px 41px;
+}
+.rectangle_90 {
+    position: absolute;
+    width: 450px;
+    height: 30px;
+    left: 561px;
+    top: 3093px;
+    background: #C4C4C4;
+    border-radius: 41px;
+    z-index: -1;
+}
+.class_for_rectangle_91 {
+    position: absolute;
+    width: 270px;
+    height: 30px;
+    left: 561px;
+    top: 3189px;
+    background: #394959;
+    border-radius: 41px 0px 0px 41px;
+}
+.class_for_rectangle_92 {
+    position: absolute;
+    width: 450px;
+    height: 30px;
+    left: 561px;
+    top: 3189px;
+    background: #C4C4C4;
+    border-radius: 41px;
+    z-index: -1;
+}
+.rectangle_80 {
+    /* Rectangle 80 */
+    position: absolute;
+    width: 1160px;
+    height: 70px;
+    left: 479px;
+    top: 3970px;
+    background: #E2DFDF;
+}
+.rectangle_81 {
+    position: absolute;
+    width: 1160px;
+    height: 70px;
+    left: 479px;
+    top: 4040px;
+    background: #D0D0D0;
+}
+.class_for_rectangle_82 {
+    position: absolute;
+    width: 1160px;
+    height: 70px;
+    left: 479px;
+    top: 4110px;
+    background: #E2DFDF;
+}
+.class_for_rectangle_83 {
+    position: absolute;
+    width: 1160px;
+    height: 70px;
+    left: 481px;
+    top: 4180px;
+    background: #D0D0D0;
+}
+.class_for_form_with_a_cross {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 480px;
+    top: 4529px;
+}
+.rectangle_42 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 814px;
+    top: 1481px;
+    background: #E2DFDF;
+}
+.rectangle_43 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 981px;
+    top: 1481px;
+    background: #E2DFDF;
+}
+.rectangle_44 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 981px;
+    top: 1481px;
+    background: #E2DFDF;
+}
+.rectangle_45 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1148px;
+    top: 1481px;
+    background: #D0D0D0;
+}
+.rectangle_46 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1315px;
+    top: 1481px;
+    background: #D0D0D0;
+}
+.rectangle_47 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1480px;
+    top: 1481px;
+    background: #D0D0D0;
+}
+.rectangle_48 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 480px;
+    top: 1666px;
+    background: #D0D0D0;
+}
+.rectangle_49 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 647px;
+    top: 1666px;
+    background: #D0D0D0;
+}
+.rectangle_50 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 814px;
+    top: 1666px;
+    background: #D0D0D0;
+}
+.rectangle_51 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 981px;
+    top: 1666px;
+    background: #D0D0D0;
+}
+.rectangle_52 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1148px;
+    top: 1666px;
+    background: #D0D0D0;
+}
+.rectangle_53 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1315px;
+    top: 1666px;
+    background: #D0D0D0;
+}
+.rectangle_54 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1480px;
+    top: 1666px;
+    background: #D0D0D0;
+}
+.rectangle_55 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 480px;
+    top: 1851px;
+    background: #394959;
+}
+.rectangle_56 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 647px;
+    top: 1851px;
+    background: #D0D0D0;
+}
+.rectangle_57 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 814px;
+    top: 1851px;
+    background: #394959;
+}
+.rectangle_58 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 981px;
+    top: 1851px;
+    background: #D0D0D0;
+}
+.rectangle_59 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1148px;
+    top: 1851px;
+    background: #D0D0D0;
+}
+.rectangle_60 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1315px;
+    top: 1851px;
+    background: #D0D0D0;
+}
+.rectangle_61 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1480px;
+    top: 1851px;
+    background: #D0D0D0;
+}
+.rectangle_62 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 480px;
+    top: 2036px;
+    background: #394959;
+}
+.rectangle_63 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 647px;
+    top: 2036px;
+    background: #D0D0D0;
+}
+.rectangle_64 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 814px;
+    top: 2036px;
+    background: #394959;
+}
+.rectangle_65 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 981px;
+    top: 2036px;
+    background: #D0D0D0;
+}
+.rectangle_66 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1148px;
+    top: 2036px;
+    background: #D0D0D0;
+}
+.rectangle_67 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1315px;
+    top: 2036px;
+    background: #D0D0D0;
+}
+.rectangle_68 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1480px;
+    top: 2036px;
+    background: #D0D0D0;
+}
+.rectangle_69 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 480px;
+    top: 2221px;
+    background: #394959;
+}
+.rectangle_70 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 480px;
+    top: 2221px;
+    background: #394959;
+}
+.rectangle_71 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 647px;
+    top: 2221px;
+    background: #D0D0D0;
+}
+.rectangle_72 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 814px;
+    top: 2221px;
+    background: #394959;
+}
+.rectangle_73 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 981px;
+    top: 2221px;
+    background: #D0D0D0;
+}
+.rectangle_74 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1148px;
+    top: 2221px;
+    background: #D0D0D0;
+}
+.rectangle_75 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1315px;
+    top: 2221px;
+    background: #D0D0D0;
+}
+.rectangle_76 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1480px;
+    top: 2221px;
+    background: #E2DFDF;
+}
+.rectangle_77 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 480px;
+    top: 2406px;
+    background: #5F6871;
+}
+.rectangle_78 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 647px;
+    top: 2406px;
+    background: #E2DFDF;
+}
+.rectangle_79 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 814px;
+    top: 2406px;
+    background: #5F6871;
+}
+.rectangle_80 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 981px;
+    top: 2406px;
+    background: #E2DFDF;
+}
+.rectangle_81 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1148px;
+    top: 2406px;
+    background: #E2DFDF;
+}
+.rectangle_82 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1315px;
+    top: 2406px;
+    background: #E2DFDF;
+}
+.rectangle_83 {
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    left: 1480px;
+    top: 2406px;
+    background: #E2DFDF;
+}
+.day_of_week_wednesday {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 819px;
+    top: 1448px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.thirtieth_day_of_the_month {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 905px;
+    top: 1420px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_eighth_day_of_the_month {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 571px;
+    top: 1420px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.day_of_week_wednesday_1 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 819px;
+    top: 1637px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.day_of_week_wednesday_2 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 819px;
+    top: 1823px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+}
+.day_of_week_wednesday_3 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 819px;
+    top: 2009px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF; 
+}
+.day_of_week_wednesday_4 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 819px;
+    top: 2193px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+}
+.day_of_week_wednesday_5 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 819px;
+    top: 2378px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+}
+.class_for_thursday {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 986px;
+    top: 1451px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.class_for_thursday_1 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 986px;
+    top: 1635px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.class_for_thursday_2 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 986px;
+    top: 1823px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.class_for_thursday_3 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 986px;
+    top: 2000px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.class_for_thursday_4 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 986px;
+    top: 2195px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.class_for_thursday_5 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 986px;
+    top: 2375px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.thirty_first_day_of_the_month {
+    position: absolute;
+    width: 45px;
+    height: 75px;
+    left: 1086px;
+    top: 1421px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.first_day_of_the_month {
+    position: absolute;
+    width: 17px;
+    height: 75px;
+    left: 1281px;
+    top: 1422px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.second_day_of_the_month {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 1435px;
+    top: 1423px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.third_day_of_the_month {
+    position: absolute;
+    width: 28px;
+    height: 75px;
+    left: 1604px;
+    top: 1422px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.fourth_day_of_the_month {
+    position: absolute;
+    width: 28px;
+    height: 75px;
+    left: 602px;
+    top: 1610px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.fifth_day_of_the_month {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 767px;
+    top: 1611px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.sixth_day_of_the_month {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 934px;
+    top: 1611px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.seventh_day_of_the_month {
+    position: absolute;
+    width: 26px;
+    height: 75px;
+    left: 1105px;
+    top: 1609px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.eighth_day_of_the_month {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 1268px;
+    top: 1609px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.ninth_day_of_the_month {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 1435px;
+    top: 1609px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.tenth_day_of_the_month {
+    position: absolute;
+    width: 48px;
+    height: 75px;
+    left: 1584px;
+    top: 1610px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.eleventh_day_of_the_month {
+    position: absolute;
+    width: 34px;
+    height: 75px;
+    left: 596px;
+    top: 1797px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #FFFFFF;
+}
+.twelfth_day_of_the_month {
+    position: absolute;
+    width: 47px;
+    height: 75px;
+    left: 750px;
+    top: 1797px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.thirteenth_day_of_the_month {
+    position: absolute;
+    width: 45px;
+    height: 75px;
+    left: 919px;
+    top: 1797px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #FFFFFF;
+}
+.fourteenth_day_of_the_month {
+    position: absolute;
+    width: 45px;
+    height: 75px;
+    left: 1086px;
+    top: 1797px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.fifteenth_day_of_the_month {
+    position: absolute;
+    width: 47px;
+    height: 75px;
+    left: 1251px;
+    top: 1797px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.sixteenth_day_of_the_month {
+    position: absolute;
+    width: 47px;
+    height: 75px;
+    left: 1418px;
+    top: 1797px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.seventeenth_day_of_the_month {
+    position: absolute;
+    width: 43px;
+    height: 75px;
+    left: 1589px;
+    top: 1797px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.eighteenth_day_of_the_month {
+    position: absolute;
+    width: 46px;
+    height: 75px;
+    left: 584px;
+    top: 1980px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #FFFFFF;
+}
+.nineteenth_day_of_the_month {
+    position: absolute;
+    width: 47px;
+    height: 75px;
+    left: 750px;
+    top: 1980px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twentieth_day_of_the_month {
+    position: absolute;
+    width: 61px;
+    height: 75px;
+    left: 903px;
+    top: 1980px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #FFFFFF;
+}
+.twenty_first_day_of_the_month {
+    position: absolute;
+    width: 47px;
+    height: 75px;
+    left: 1084px;
+    top: 1980px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_second_day_of_the_month {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 1239px;
+    top: 1980px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_third_day_of_the_month {
+    position: absolute;
+    width: 58px;
+    height: 75px;
+    left: 1407px;
+    top: 1980px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_fourth_day_of_the_month {
+    position: absolute;
+    width: 58px;
+    height: 75px;
+    left: 1574px;
+    top: 1980px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_fifth_day_of_the_month {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 571px;
+    top: 2163px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #FFFFFF;
+}
+.twenty_sixth_day_of_the_month {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 738px;
+    top: 2163px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_seventh_day_of_the_month {
+    position: absolute;
+    width: 56px;
+    height: 75px;
+    left: 908px;
+    top: 2163px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #FFFFFF;
+}
+.twenty_eighth_day_of_the_month {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 1072px;
+    top: 2163px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_ninth_day_of_the_month {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 1239px;
+    top: 2163px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.thirtieth_day_of_the_month {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 1406px;
+    top: 2163px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.first_day_of_the_month {
+    position: absolute;
+    width: 17px;
+    height: 75px;
+    left: 1615px;
+    top: 2167px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.second_day_of_the_month {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 595px;
+    top: 2350px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #FFFFFF;
+}
+.third_day_of_the_month {
+    position: absolute;
+    width: 28px;
+    height: 75px;
+    left: 769px;
+    top: 2350px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.fourth_day_of_the_month {
+    position: absolute;
+    width: 28px;
+    height: 75px;
+    left: 936px;
+    top: 2347px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #FFFFFF;
+}
+.fifth_day_of_the_month {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 1101px;
+    top: 2350px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.sixth_day_of_the_month {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 1268px;
+    top: 2350px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.seventh_day_of_the_month {
+    position: absolute;
+    width: 26px;
+    height: 75px;
+    left: 1439px;
+    top: 2350px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.eighth_day_of_the_month {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 1602px;
+    top: 2350px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.class_for_form_with_a_cross_1 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1031px;
+    top: 3585px;
+}
+.class_for_teacher_form_with_a_cross {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 924px;
+    top: 4532px;
+}
+.checkmark_icon_for_evaluating_a_marketer {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1031px;
+    top: 2910px;
+}
+.checkmark_icon_for_evaluating_a_marketer_1 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1031px;
+    top: 2999px;
+}
+.checkmark_icon_for_evaluating_a_marketer_2 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1031px;
+    top: 3180px;
+}
+.icon_with_a_cross_for_evaluating_a_marketer {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1031px;
+    top: 3083px;
+}
+.some_figure_i_really_need {
+    position: absolute;
+    width: 1160px;
+    height: 70px;
+    left: 479px;
+    top: 3970px;
+    background: #E2DFDF;
+}
+.some_figure_i_really_need_part_two {
+    position: absolute;
+    width: 1160px;
+    height: 70px;
+    left: 479px;
+    top: 4040px;
+    background: #D0D0D0;
+}
+.first_date {
+    position: absolute;
+    width: 17px;
+    height: 75px;
+    left: 1281px;
+    top: 1422px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.second_date {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 1435px;
+    top: 1422px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.third_date {
+    position: absolute;
+    width: 28px;
+    height: 75px;
+    left: 1604px;
+    top: 1422px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.fourth_date {
+    position: absolute;
+    width: 28px;
+    height: 75px;
+    left: 602px;
+    top: 1607px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.fifth_date {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 767px;
+    top: 1607px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.sixth_date {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 934px;
+    top: 1607px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.seventh_date {
+    position: absolute;
+    width: 26px;
+    height: 75px;
+    left: 1105px;
+    top: 1607px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.eighth_date {
+    position: absolute;
+    width: 30px;
+    height: 75px;
+    left: 1268px;
+    top: 1607px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_eighth_number {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 571px;
+    top: 1419px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.twenty_ninth_number {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 738px;
+    top: 1419px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.thirtieth {
+    position: absolute;
+    width: 59px;
+    height: 75px;
+    left: 905px;
+    top: 1419px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 150%;
+    /* identical to box height, or 75px */
+    text-align: right;
+    color: #222222;
+}
+.friday_0 {
+    position: absolute;
+    width: 39px;
+    height: 45px;
+    left: 1153px;
+    top: 1450px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.friday_1 {
+    position: absolute;
+    width: 39px;
+    height: 45px;
+    left: 1153px;
+    top: 1637px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.friday_2 {
+    position: absolute;
+    width: 39px;
+    height: 45px;
+    left: 1153px;
+    top: 1819px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.friday_3 {
+    position: absolute;
+    width: 39px;
+    height: 45px;
+    left: 1153px;
+    top: 2005px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.friday_4 {
+    position: absolute;
+    width: 39px;
+    height: 45px;
+    left: 1153px;
+    top: 2190px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.friday_5 {
+    position: absolute;
+    width: 39px;
+    height: 45px;
+    left: 1153px;
+    top: 2377px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.saturday_0 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 1320px;
+    top: 1450px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.saturday_1 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 1320px;
+    top: 1636px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.saturday_2 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 1320px;
+    top: 1823px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.saturday_3 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 1320px;
+    top: 2005px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.saturday_4 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 1320px;
+    top: 2194px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.saturday_5 {
+    position: absolute;
+    width: 38px;
+    height: 45px;
+    left: 1320px;
+    top: 2375px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.sunday_0 {
+    position: absolute;
+    width: 40px;
+    height: 45px;
+    left: 1496px;
+    top: 1451px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.sunday_1 {
+    position: absolute;
+    width: 40px;
+    height: 45px;
+    left: 1489px;
+    top: 1637px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.sunday_2 {
+    position: absolute;
+    width: 40px;
+    height: 45px;
+    left: 1496px;
+    top: 1830px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.sunday_3 {
+    position: absolute;
+    width: 40px;
+    height: 45px;
+    left: 1485px;
+    top: 2010px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.sunday_4 {
+    position: absolute;
+    width: 40px;
+    height: 45px;
+    left: 1485px;
+    top: 2190px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.sunday_5 {
+    position: absolute;
+    width: 40px;
+    height: 45px;
+    left: 1485px;
+    top: 2380px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.monday_date_0 {
+    position: absolute;
+    width: 43px;
+    height: 45px;
+    left: 485px;
+    top: 1635px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.monday_date_1 {
+    position: absolute;
+    width: 43px;
+    height: 45px;
+    left: 485px;
+    top: 1820px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+}
+.monday_date_2 {
+    position: absolute;
+    width: 43px;
+    height: 45px;
+    left: 485px;
+    top: 207px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+}
+.monday_date_3 {
+    position: absolute;
+    width: 43px;
+    height: 45px;
+    left: 485px;
+    top: 2010px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+}
+.monday_date_4 {
+    position: absolute;
+    width: 43px;
+    height: 45px;
+    left: 485px;
+    top: 2190px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+}
+.monday_date_5 {
+    position: absolute;
+    width: 43px;
+    height: 45px;
+    left: 485px;
+    top: 2373px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #FFFFFF;
+}
+.tuesday_0 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 652px;
+    top: 1638px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.tuesday_1 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 652px;
+    top: 1820px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.tuesday_2 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 652px;
+    top: 2010px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.tuesday_3 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 652px;
+    top: 2190px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.tuesday_4 {
+    position: absolute;
+    width: 36px;
+    height: 45px;
+    left: 652px;
+    top: 2383px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    /* identical to box height, or 45px */
+    color: #696969;
+}
+.introduction_to_the_world_of_marketing_special_class {
+    position: absolute;
+    width: 155px;
+    height: 46px;
+    left: 485px;
+    top: 1911px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 22px */
+    color: #FFFFFF;
+}
+.time_class_19_00 {
+    position: absolute;
+    width: 155px;
+    height: 23px;
+    left: 485px;
+    top: 1957px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    color: #FFFFFF;
+}
+.Connect_class {
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    left: 485px;
+    top: 1980px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.introduction_to_the_world_of_economics_special_class {
+    position: absolute;
+    width: 155px;
+    height: 46px;
+    left: 819px;
+    top: 1911px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 22px */
+    color: #FFFFFF;
+}
+.time_class_19_00_part_two {
+    position: absolute;
+    width: 160px;
+    height: 23px;
+    left: 819px;
+    top: 1957px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    color: #FFFFFF;
+}
+.Connect_class_part_two {
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    left: 819px;
+    top: 1980px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.introduction_to_the_world_of_production_special_class {
+    position: absolute;
+    width: 155px;
+    height: 46px;
+    left: 485px;
+    top: 2096px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 22px */
+    color: #FFFFFF;
+}
+.time_class_19_00_third_part {
+    position: absolute;
+    width: 160px;
+    height: 23px;
+    left: 485px;
+    top: 2142px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    color: #FFFFFF;
+}
+.connect_class_third_part {
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    left: 485px;
+    top: 2165px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.introduction_to_the_world_of_logistics_special_class {
+    position: absolute;
+    width: 155px;
+    height: 46px;
+    left: 819px;
+    top: 2096px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 22px */
+    color: #FFFFFF;
+}
+.time_class_19_00_fourth_part {
+    position: absolute;
+    width: 160px;
+    height: 23px;
+    left: 819px;
+    top: 2142px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    color: #FFFFFF;
+}
+.connect_class_part_fourth {
+    /* Подключиться */
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    left: 819px;
+    top: 2165px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.introduction_to_the_world_of_knowledge_management_special_class {
+    position: absolute;
+    width: 155px;
+    height: 46px;
+    left: 485px;
+    top: 2281px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 22px */
+    color: #FFFFFF;
+}
+.time_class_19_00_fifth_part {
+    position: absolute;
+    width: 160px;
+    height: 23px;
+    left: 485px;
+    top: 2327px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    color: #FFFFFF;
+}
+.connect_class_part_fifth {
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    left: 485px;
+    top: 2350px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.introduction_to_the_design_world_special_class {
+    /* Введение в мир проектирования */
+    position: absolute;
+    width: 155px;
+    height: 46px;
+    left: 819px;
+    top: 2281px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 22px */
+    color: #FFFFFF;
+}
+.just_time_class {
+    /* 19:00 */
+    position: absolute;
+    width: 160px;
+    height: 23px;
+    left: 819px;
+    top: 2327px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    color: #FFFFFF;
+}
+.connect_class_part_sixth {
+    /* Подключиться */
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    left: 819px;
+    top: 2350px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.introduction_to_the_world_of_design_special_class {
+    /* Введение в мир дизайна */
+    position: absolute;
+    width: 155px;
+    height: 46px;
+    left: 485px;
+    top: 2466px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 22px */
+    color: #FFFFFF;
+}
+.time_class_19_00_sixth_part_1 {
+    /* 19:00 */
+    position: absolute;
+    width: 160px;
+    height: 23px;
+    left: 485px;
+    top: 2512px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    color: #FFFFFF;
+}
+.connect_class_part_seventh {
+    /* Подключиться */
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    left: 485px;
+    top: 2535px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
+.introduction_to_the_world_of_programming_special_class {
+    /* Введение в мир программирования */
+    position: absolute;
+    width: 155px;
+    height: 46px;
+    left: 819px;
+    top: 2466px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 22px */
+    color: #FFFFFF;
+}
+.time_class_19_00_seventh_part_434 {
+    /* 19:00 */
+    position: absolute;
+    width: 160px;
+    height: 23px;
+    left: 819px;
+    top: 2512px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    color: #FFFFFF;
+}
+.connect_class_part_eight_part_434345 {
+    /* Подключиться */
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    left: 819px;
+    top: 2535px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* identical to box height, or 22px */
+    text-decoration-line: underline;
+    color: #1D9BF0;
+}
